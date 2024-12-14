@@ -130,7 +130,7 @@ Check out the deployed version here: [Tile World](https://estavel-dun.vercel.app
 ## Author
 **[Your Name]**
 - **Role**: Frontend Developer
-- **Contact**: [Your Email](chinnasivakrishnathota@gmail.com) | [[Your LinkedIn](https://www.linkedin.com/in/chinna-siva-krishna-thota/)] | [[Your Portfolio](https://chinnasivakrishna.github.io/portfolio/)]
+- **Contact**: [My Email](chinnasivakrishnathota@gmail.com) | [[My LinkedIn](https://www.linkedin.com/in/chinna-siva-krishna-thota/)] | [[My Portfolio](https://chinnasivakrishna.github.io/portfolio/)]
 
 ---
 
