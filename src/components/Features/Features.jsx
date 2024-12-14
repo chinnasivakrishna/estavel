@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import tilesImage1 from '../photos/tiles.jpg';
-import tilesImage2 from '../photos/tiles.jpg';
-import tilesImage3 from '../photos/tiles.jpg';
-import tilesImage4 from '../photos/tiles.jpg';
-import tilesImage5 from '../photos/tiles.jpg';
+import tilesImage2 from '../photos/tiles1.jpg';
+import tilesImage3 from '../photos/tiles2.jpg';
+import tilesImage4 from '../photos/tiles3.jpg';
+import tilesImage5 from '../photos/tiles4.jpg';
 import './Features.css';
 
 const images = [tilesImage1, tilesImage2, tilesImage3, tilesImage4, tilesImage5];

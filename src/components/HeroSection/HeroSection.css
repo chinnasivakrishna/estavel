@@ -16,7 +16,7 @@
     width: 200%;
     height: 200%;
     background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.8) 100%);
-    animation: pulse 6s infinite ease-in-out, moveBackground 20s infinite linear;
+    animation: pulse 10s infinite ease-in-out, moveBackground 6s infinite linear;
     z-index: 0;
   }
   
