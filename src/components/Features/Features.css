@@ -1,0 +1,52 @@
+.features {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: #f8f9fa;
+}
+
+.carousel {
+  flex: 1;
+  position: relative;
+  width: 50%;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-right: 2rem;
+}
+
+.carousel-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+  transform: scale(1.1); /* Start with a slight zoom */
+}
+
+.carousel-image.active {
+  opacity: 1;
+  transform: scale(1); /* Smooth zoom-out effect */
+}
+
+.feature-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  text-align: left;
+}
+
+.feature h2 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.feature p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
